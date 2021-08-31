@@ -1,5 +1,5 @@
 # nodeCrud
-Node project to practice a CRUD with GRAPHQQL, APIs, AUTHENTICATION, MONGODB, SQL.
+Node project to practice a CRUD with GRAPHQL, APIs, AUTHENTICATION, MONGODB, SQL.
 
 # REPL
 Read  -> READ USER INPUT
